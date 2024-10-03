@@ -1,0 +1,557 @@
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\appsettings.Development.json
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\appsettings.json
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\MvcMovie.staticwebassets.runtime.json
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\MvcMovie.exe
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\MvcMovie.deps.json
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\MvcMovie.runtimeconfig.json
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\MvcMovie.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\MvcMovie.pdb
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\MvcMovie.AssemblyInfoInputs.cache
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\MvcMovie.AssemblyInfo.cs
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.CoreCompileInputs.cache
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\MvcMovie.RazorAssemblyInfo.cache
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\MvcMovie.RazorAssemblyInfo.cs
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\staticwebassets.build.json
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\staticwebassets.development.json
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\staticwebassets\msbuild.MvcMovie.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\staticwebassets\msbuild.build.MvcMovie.props
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MvcMovie.props
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MvcMovie.props
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\scopedcss\bundle\MvcMovie.styles.css
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\scopedcss\projectbundle\MvcMovie.bundle.scp.css
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\MvcMovie.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\refint\MvcMovie.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\MvcMovie.pdb
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\MvcMovie.genruntimeconfig.cache
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\ref\MvcMovie.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Azure.Core.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Azure.Identity.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Humanizer.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.Build.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Mono.TextTemplating.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\Newtonsoft.Json.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\NuGet.Common.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\NuGet.Configuration.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\NuGet.Frameworks.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\NuGet.LibraryModel.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\NuGet.Packaging.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\NuGet.ProjectModel.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\NuGet.Protocol.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\NuGet.Versioning.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\System.CodeDom.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\System.Composition.Convention.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\System.Composition.Hosting.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\System.Composition.Runtime.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\System.Composition.TypedParts.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\System.Drawing.Common.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\System.Memory.Data.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\System.Runtime.Caching.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\System.Security.Permissions.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\System.Text.Json.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\System.Windows.Extensions.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\af\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ar\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\az\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\bg\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\cs\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\da\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\de\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\el\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\es\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\fa\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\fr\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\he\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\hr\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\hu\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\hy\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\id\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\is\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\it\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ja\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ku\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\lv\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\mt\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\nb\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\nl\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\pl\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\pt\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ro\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ru\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\sk\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\sl\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\sr\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\sv\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\tr\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\uk\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\vi\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.AssemblyReference.cache
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.Up2Date
+c:\Work\OficinaIdeias\2024 - 2025\3P\10792 - ASP NET C# COM MVC\Projetos\MvcMovie\bin\Debug\net8.0\appsettings copy.json
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\appsettings copy.json
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\appsettings.Development.json
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\appsettings.json
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\MvcMovie.staticwebassets.runtime.json
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\MvcMovie.exe
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\MvcMovie.deps.json
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\MvcMovie.runtimeconfig.json
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\MvcMovie.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\MvcMovie.pdb
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Azure.Core.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Azure.Identity.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Humanizer.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.Build.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Mono.TextTemplating.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\Newtonsoft.Json.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\NuGet.Common.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\NuGet.Configuration.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\NuGet.Frameworks.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\NuGet.LibraryModel.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\NuGet.Packaging.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\NuGet.ProjectModel.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\NuGet.Protocol.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\NuGet.Versioning.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\System.CodeDom.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\System.Composition.Convention.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\System.Composition.Hosting.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\System.Composition.Runtime.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\System.Composition.TypedParts.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\System.Drawing.Common.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\System.Memory.Data.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\System.Runtime.Caching.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\System.Security.Permissions.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\System.Windows.Extensions.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\af\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ar\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\az\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\bg\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\cs\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\da\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\de\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\el\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\es\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\fa\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\fr\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\he\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\hr\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\hu\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\hy\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\id\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\is\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\it\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ja\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ku\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\lv\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\mt\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\nb\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\nl\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\pl\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\pt\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ro\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ru\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\sk\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\sl\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\sr\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\sv\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\tr\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\uk\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\vi\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+e:\T3P2024_2025\MvcMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.AssemblyReference.cache
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\MvcMovie.AssemblyInfoInputs.cache
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\MvcMovie.AssemblyInfo.cs
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.CoreCompileInputs.cache
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\MvcMovie.RazorAssemblyInfo.cache
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\MvcMovie.RazorAssemblyInfo.cs
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\staticwebassets.build.json
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\staticwebassets.development.json
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\staticwebassets\msbuild.MvcMovie.Microsoft.AspNetCore.StaticWebAssets.props
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\staticwebassets\msbuild.build.MvcMovie.props
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MvcMovie.props
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MvcMovie.props
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\staticwebassets.pack.json
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\scopedcss\bundle\MvcMovie.styles.css
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\scopedcss\projectbundle\MvcMovie.bundle.scp.css
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.Up2Date
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\MvcMovie.dll
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\refint\MvcMovie.dll
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\MvcMovie.pdb
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\MvcMovie.genruntimeconfig.cache
+e:\T3P2024_2025\MvcMovie\obj\Debug\net8.0\ref\MvcMovie.dll
